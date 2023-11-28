@@ -61,8 +61,7 @@ print ('''
                                    `-.:.-'  
    
 
-                         \033[92m[\033[91mCoded By : AnonNews_irc\033[92m]
-                        #\033[93m[\033[94m127.0.0.1\033[93m]\033[95m|_|\033[93m[\033[94m127.217.21.78\033[93m]                                                                         
+                         \033[92m[\033[91mCoded By : AnonNews_irc\033[92m]                                                                                                
 ''')
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
