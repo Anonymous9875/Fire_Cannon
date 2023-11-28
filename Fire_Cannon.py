@@ -70,13 +70,13 @@ os.system("clear")
 print "\033[91mMission Start DDOS"
 print "\033[91m[                    ] 0% "
 time.sleep(5)
-print "\033[92m[=====               ] 25%"
+print "\033[92m[xxxxx               ] 25%"
 time.sleep(5)
-print "\033[92m[==========          ] 50%"
+print "\033[92m[xxxxxxxxxx          ] 50%"
 time.sleep(5)
-print "\033[92m[===============     ] 75%"
+print "\033[92m[xxxxxxxxxxxxxxx     ] 75%"
 time.sleep(5)
-print "\033[92m[====================] 100%"
+print "\033[92m[xxxxxxxxxxxxxxxxxxxx] 100%"
 time.sleep(3)
 os.system ("clear")
 sent = 0
