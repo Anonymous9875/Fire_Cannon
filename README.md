@@ -17,7 +17,7 @@ python2 Fire_Cannon.py
 
 #installing the Tool on Termux Fire_Cannon
 
-apt update && apt upgrade -y && apt install python git -y
+apt update && apt upgrade -y && apt install python2 git -y
 
 git clone https://github.com/Anonymous9875/Fire_Cannon.git
 
