@@ -69,15 +69,15 @@ port = input("Port       : ")
 
 os.system("clear")
 print "\033[91mMission Start DDOS"
-print "\033[91m□□□□□0% "
+print "\033[91m[                    ] 0% "
 time.sleep(5)
-print "\033[92m■■□□□40%"
+print "\033[92m[=====               ] 25%"
 time.sleep(5)
-print "\033[92m■■■■□80%"
+print "\033[92m[==========          ] 50%"
 time.sleep(5)
-print "\033[92m■■■■□90%"
+print "\033[92m[===============     ] 75%"
 time.sleep(5)
-print "\033[92m■■■■■100%"
+print "\033[92m[====================] 100%"
 time.sleep(3)
 os.system ("clear")
 sent = 0
