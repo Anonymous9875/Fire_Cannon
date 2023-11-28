@@ -68,16 +68,16 @@ ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
-print "\033[91mMission Start DDOS"
-print "\033[91m[                    ] 0% "
+print "\033[91mStarting the DDos attack"
+print "\033[91mLoading... 0% "
 time.sleep(5)
-print "\033[92m[xxxxx               ] 25%"
+print "\033[92mLoading... 25%"
 time.sleep(5)
-print "\033[92m[xxxxxxxxxx          ] 50%"
+print "\033[92mLoading... 50%"
 time.sleep(5)
-print "\033[92m[xxxxxxxxxxxxxxx     ] 75%"
+print "\033[92mLoading... 75%"
 time.sleep(5)
-print "\033[92m[xxxxxxxxxxxxxxxxxxxx] 100%"
+print "\033[92mFire"
 time.sleep(3)
 os.system ("clear")
 sent = 0
