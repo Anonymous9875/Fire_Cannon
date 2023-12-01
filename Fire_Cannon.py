@@ -64,7 +64,7 @@ print ('''
 ''')
 
 ip = raw_input("IP Target : ")
-port = input("Port       : ")
+port = input("Port : ")
 
 os.system("clear")
 print "\033[91mStarting the DDos attack"
