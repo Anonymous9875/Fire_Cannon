@@ -59,8 +59,9 @@ print ('''
                                  :   /|\   :
                                  `. / | \ .'
                                    `-.:.-'  
-                         \033[92m[\033[91mCoded By : AnonNews_irc\033[92m]  
-            \033[93m[\033[94mTelegram : https://t.me/addlist/iZfJw-LVfYthNzYx\033[93m]\033
+                           \033[92m[\033[91mCoded By : AnonNews_irc\033[92m]
+              \033[93m[\033[94mTelegram : https://t.me/addlist/iZfJw-LVfYthNzYx\033[93m]\033[95m
+                               \033[93m[\033[94m🎭Anonymous🎭\033[93m]
 ''')
 
 ip = raw_input("IP Target : ")
